@@ -9,3 +9,4 @@
 9. OpenTelemetry Logs Data Model - https://opentelemetry.io/docs/specs/otel/logs/data-model/
 10. OpenTelemetry Attributes Registry - https://opentelemetry.io/docs/specs/semconv/attributes-registry/
 11. Доклад “Есть ли жизнь без ELK? Как снизить стоимость Log Management / Денис Безкоровайный” - https://www.youtube.com/watch?v=BOVuwr43ZTE
+12. Unit testing Vector configurations - https://vector.dev/docs/reference/configuration/unit-tests/
