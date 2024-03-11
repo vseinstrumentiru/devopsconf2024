@@ -1,5 +1,7 @@
 # Список ссылок к докладу DevOpsConf 2024 "Логи: как EFK нас довел... до Vector и Clickhouse"
 
+Пример реализации подсчета метрик по логам в vector.dev смотрите в репозитории https://github.com/vseinstrumentiru/vector.dev-metrics-to-logs-helper  
+
 1. Статьи из блога Clickhouse по теме “Building an Observability Solution with ClickHouse” - https://clickhouse.com/blog/storing-log-data-in-clickhouse-fluent-bit-vector-open-telemetry
 3. Сравнение производительности Vector, Fluent Bit, Fluentd - https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea
 4. Switching From FluentD to Vector Log Aggregation Tool (исследование эффективности доставки логов) - https://devops.com/switching-from-fluentd-to-vector-log-aggregation-tool/
